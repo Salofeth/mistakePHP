@@ -1,0 +1,45 @@
+/*ie8*/
+.ie8jumbotron{
+    z-index:999999;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+}
+.ie8jumbotron h1{
+    font-size: 70px;
+}
+.ie8jumbotron p{
+    font-size: 30px;
+}
+.ie8jumbotron div{
+    width: 75%;
+}
+.ie8container{
+    margin-right: auto;
+    margin-left: auto;
+}
+/*ie8*/
+
+body {
+  background-color: #f0f0f0;
+  background: url("../images/bg3.png");
+  word-wrap: break-word;
+}
+
+.well_test {
+  min-height: 20px;
+  padding: 6px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border-radius: 3px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0 0px 5px #c2c2c2;
+  -moz-box-shadow: 0 0px 5px #c2c2c2;
+  box-shadow: 0 0px 5px #c2c2c2;
+}
+
